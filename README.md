@@ -1,2 +1,1 @@
-# booklet
-Python Project for training
+BookBot is my first project!
